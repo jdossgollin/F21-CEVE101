@@ -1,0 +1,143 @@
+\documentclass[12pt]{article}
+
+% set page size and margins
+\usepackage[letterpaper, top=1in, bottom=1in, left=1in, right=1in]{geometry}
+
+% set language
+\usepackage[english]{babel}
+
+% set input encoding
+\usepackage[utf8]{inputenc}
+
+% floats appear in the section they were defined in
+\usepackage[section]{placeins}
+
+% include graphics
+\usepackage{graphicx}
+%\graphicspath{{fig/}} % set this as needed
+
+% use SI notation
+\usepackage{siunitx}
+\sisetup{round-mode=figures,round-precision=3,scientific-notation=false}
+
+% other packages
+\usepackage{
+  amssymb, amsmath,         % for math
+  indentfirst,              % indent the first line
+  physics,                  % for physics notation
+  ragged2e,                 % for better alignment of text
+}
+
+% some formatting
+\allowdisplaybreaks % let the align environment span multiple pages
+\setlength{\RaggedRightParindent}{\parindent} % fix ragged right
+
+% Change font
+\usepackage[T1]{fontenc} % improved font encoding
+\usepackage[ttscale=0.8]{libertine} % a nice font on screen and print
+
+% some useful macros
+\usepackage{xspace}
+\newcommand{\eg}{e.g.\@\xspace}
+\newcommand{\ie}{i.e.\@\xspace}
+\newcommand{\iid}{i.i.d.\@\xspace}
+\makeatletter
+\newcommand*{\etc}{%
+    \@ifnextchar{.}%
+        {etc}%
+        {etc.\@\xspace}%
+}
+\makeatother
+\newcommand{\expectation}{\mathbb{E}}
+
+% biblatex setup
+\usepackage[
+  backend=biber,
+  doi=true,
+  url=false,
+  isbn=false,
+  style=authoryear-comp,
+  natbib=true,
+  backref=false,
+  maxbibnames=3,
+  maxcitenames=2,
+  uniquename=false,
+  uniquelist=false
+]{biblatex}
+\renewcommand{\refname}{References}
+\renewbibmacro{in:}{}
+\AtEveryBibitem{\clearfield{month}\clearfield{pages}\clearlist{language}}
+\addbibresource{my-papers/library.bib}
+\usepackage{csquotes} % improves formatting of biblatex
+
+% Author and title information
+\title{Decision Analysis for Complex Systems}
+\author{James Doss-Gollin}
+\date{Fall 2022?}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{cleveref}
+% -----------------------------------------------------------------------------
+% AUTHOR AND TITLE AND TITLEPAGE
+% -----------------------------------------------------------------------------
+
+\begin{document}
+\maketitle
+\RaggedRight
+
+% -----------------------------------------------------------------------------
+% START HERE
+% -----------------------------------------------------------------------------
+
+Through a semester-long case study of climate adaptation and flood risk management in the Houston-Galveston region (details to be developed in consultation with local community partners), this course will provide students with the theoretical and practical tools to inform decision-making for complex infrastructure and environmental systems.
+\begin{description}
+	\item[Understand the system.] What are the most important dynamics of the social and environmental systems in which this problem is embedded? What factors drive change and uncertainty in this system? What are the aleatory and epistemic uncertainties? What different kinds of data or information and what different ways of knowing are used to inform decisions?
+	\item[Define the decision.] Most engineering solutions are defined by the problem framing.  What are the metrics that define success or failure? Who defines these metrics? What are the ethical implications of these metrics?
+	\item[Develop solutions.] What engineering, policy, and financial levers are available? Are solutions considered individually or in combination? Do these solutions improve outcomes as measured by the metrics that have been defined? What tradeoffs do they reveal?
+	\item[Implement solutions.] Who will implement solutions and measure performance? Over what time periods? How will they be funded?
+\end{description}
+
+Upper-level undergraduate would be good.
+Are there connections to sociology we can pull in?
+
+For case study, have some ``for instances'' and then pick one.
+
+Allocate budget to this
+
+Topics will emphasize creative thinking, user-oriented design, engineering ethics, and the appropriate use of models.
+
+\section{Topics}
+
+This course will emphasize an iterative process of: (1) framing the problem, (2) devising a model to represent relevant aspects of the system, and (3) using analytical tools to inform decisions.
+Topics will be introduced as needed based on the case study at hand.
+\begin{enumerate}
+	\item Problem framing
+	      \begin{enumerate}
+	      	\item Wicked problems \citep{rittel:1973}
+	      	\item Mental models
+	      	\item Elicitation of expert judgement
+	      \end{enumerate}
+	\item Modeling for complex systems
+	      \begin{enumerate}
+	      	\item Stochastic hydrology
+	      	\item Monte Carlo simulation
+	      	\item Exploratory vs consolidative modeling \citep{bankes:1993}
+	      	\item Model critique and validation
+	      	\item Sensitivity analysis \citep{pianosi_sensitivity:2016}
+	      \end{enumerate}
+	\item Optimization
+	      \begin{enumerate}
+	      	\item Linear programming
+	      	\item Heurstics
+	      	\item Multiobjective heuristics
+	      	\item Dynamic optimization
+	      	\item Deep uncertainty
+	      \end{enumerate}
+\end{enumerate}
+
+
+% -----------------------------------------------------------------------------
+% END HERE
+% -----------------------------------------------------------------------------
+\printbibliography
+\end{document}
