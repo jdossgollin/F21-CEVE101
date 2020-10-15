@@ -1,143 +1,202 @@
-\documentclass[12pt]{article}
+\documentclass[nobib]{tufte-handout}
 
-% set page size and margins
-\usepackage[letterpaper, top=1in, bottom=1in, left=1in, right=1in]{geometry}
+% Make tufte-handout compatible with xelatex: https://tex.stackexchange.com/questions/202142/problems-compiling-tufte-title-page-in-xelatex
+\usepackage{ifxetex}
+\ifxetex
+  \newcommand{\textls}[2][5]{%
+    \begingroup\addfontfeatures{LetterSpace=#1}#2\endgroup
+  }
+  \renewcommand{\allcapsspacing}[1]{\textls[15]{#1}}
+  \renewcommand{\smallcapsspacing}[1]{\textls[10]{#1}}
+  \renewcommand{\allcaps}[1]{\textls[15]{\MakeTextUppercase{#1}}}
+  \renewcommand{\smallcaps}[1]{\smallcapsspacing{\scshape\MakeTextLowercase{#1}}}
+  \renewcommand{\textsc}[1]{\smallcapsspacing{\textsmallcaps{#1}}}
+  \usepackage{fontspec}
+\fi
 
-% set language
-\usepackage[english]{babel}
-
-% set input encoding
-\usepackage[utf8]{inputenc}
-
-% floats appear in the section they were defined in
-\usepackage[section]{placeins}
-
-% include graphics
-\usepackage{graphicx}
-%\graphicspath{{fig/}} % set this as needed
-
-% use SI notation
-\usepackage{siunitx}
-\sisetup{round-mode=figures,round-precision=3,scientific-notation=false}
-
-% other packages
+% load other packages
 \usepackage{
-  amssymb, amsmath,         % for math
-  indentfirst,              % indent the first line
-  physics,                  % for physics notation
-  ragged2e,                 % for better alignment of text
+	array, 			% fixed width tables
+	booktabs,             % better tables
+	enumitem,             % for lists
+	graphicx,             % for figures
+	physics, 				% better math notation
 }
 
-% some formatting
-\allowdisplaybreaks % let the align environment span multiple pages
-\setlength{\RaggedRightParindent}{\parindent} % fix ragged right
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-% Change font
-\usepackage[T1]{fontenc} % improved font encoding
-\usepackage[ttscale=0.8]{libertine} % a nice font on screen and print
+% Look for graphs in the fig folder
+\graphicspath{{fig/}}
 
-% some useful macros
+\usepackage{amssymb,amsmath}
+
+% dollars
+\usepackage{siunitx}
+\newcommand{\usd}[1]{\SI[round-precision=2,round-mode=places,round-integer-to-decimal]{#1}[\$]{}}
+
+% MACROS
 \usepackage{xspace}
-\newcommand{\eg}{e.g.\@\xspace}
-\newcommand{\ie}{i.e.\@\xspace}
-\newcommand{\iid}{i.i.d.\@\xspace}
+\DeclareRobustCommand{\eg}{e.g.\@\xspace}
+\DeclareRobustCommand{\ie}{i.e.\@\xspace}
 \makeatletter
-\newcommand*{\etc}{%
+\DeclareRobustCommand{\etc}{%
     \@ifnextchar{.}%
         {etc}%
         {etc.\@\xspace}%
 }
 \makeatother
-\newcommand{\expectation}{\mathbb{E}}
 
-% biblatex setup
+% create inline lists
+\newlist{inlinelist}{enumerate*}{1}
+\setlist*[inlinelist,1]{%
+  label = (\roman*),
+}
+
+% better hyphenation settings
+% https://tex.stackexchange.com/questions/31301/how-to-reduce-the-number-of-hyphenation
+\pretolerance=750
+\tolerance=750
+\emergencystretch=2em
+\righthyphenmin=3
+\lefthyphenmin=3
+
+% no extra white space around lists
+\setlist[itemize,enumerate]{noitemsep}
+
+% Biblatex
+\usepackage{csquotes}
 \usepackage[
   backend=biber,
+  natbib=true,
+  style=authoryear-comp ,
+  firstinits=true,
   doi=true,
   url=false,
-  isbn=false,
-  style=authoryear-comp,
-  natbib=true,
   backref=false,
-  maxbibnames=3,
+  maxbibnames=99,
   maxcitenames=2,
-  uniquename=false,
-  uniquelist=false
 ]{biblatex}
-\renewcommand{\refname}{References}
-\renewbibmacro{in:}{}
-\AtEveryBibitem{\clearfield{month}\clearfield{pages}\clearlist{language}}
 \addbibresource{my-papers/library.bib}
-\usepackage{csquotes} % improves formatting of biblatex
+\renewbibmacro{in:}{}
+\AtEveryBibitem{\clearfield{month}\clearfield{pages}\clearfield{issn}\clearfield{day}\clearfield{eprint}\clearlist{language}}
+\renewcommand*{\bibfont}{\small}
 
-% Author and title information
-\title{Decision Analysis for Complex Systems}
-\author{James Doss-Gollin}
-\date{Fall 2022?}
+% Change of Font
+\usepackage{libertine}
+\usepackage{cmap}
 
-\usepackage[hidelinks]{hyperref}
+% This goes near the end
 \usepackage{cleveref}
+
 % -----------------------------------------------------------------------------
 % AUTHOR AND TITLE AND TITLEPAGE
 % -----------------------------------------------------------------------------
+\title{Decision Analysis for Complex Systems}
+\author{James Doss-Gollin}
+\date{Semester TBD}
 
 \begin{document}
 \maketitle
-\RaggedRight
 
-% -----------------------------------------------------------------------------
-% START HERE
-% -----------------------------------------------------------------------------
-
-Through a semester-long case study of climate adaptation and flood risk management in the Houston-Galveston region (details to be developed in consultation with local community partners), this course will provide students with the theoretical and practical tools to inform decision-making for complex infrastructure and environmental systems.
+Through a semester-long case study of climate adaptation and flood risk management in the Houston-Galveston region or water management in Texas (details TBD), this course will provide students with the theoretical and practical tools to inform decision-making for complex infrastructure and environmental systems.
 \begin{description}
-	\item[Understand the system.] What are the most important dynamics of the social and environmental systems in which this problem is embedded? What factors drive change and uncertainty in this system? What are the aleatory and epistemic uncertainties? What different kinds of data or information and what different ways of knowing are used to inform decisions?
+	\item[Understand.] What are the most important dynamics of the social and environmental systems in which this problem is embedded? What factors drive change and uncertainty in this system? What are the aleatory and epistemic uncertainties? What different kinds of data or information and what different ways of knowing are used to inform decisions?
 	\item[Define the decision.] Most engineering solutions are defined by the problem framing.  What are the metrics that define success or failure? Who defines these metrics? What are the ethical implications of these metrics?
-	\item[Develop solutions.] What engineering, policy, and financial levers are available? Are solutions considered individually or in combination? Do these solutions improve outcomes as measured by the metrics that have been defined? What tradeoffs do they reveal?
-	\item[Implement solutions.] Who will implement solutions and measure performance? Over what time periods? How will they be funded?
+	\item[Develop solutions.] What engineering, policy, and financial levers are available? Are solutions considered individually or in combination? Do these solutions improve outcomes as measured by the metrics that have been defined? What tradeoffs do they reveal? Who will implement solutions and measure performance? Over what time periods? How will they be funded?
 \end{description}
 
-Upper-level undergraduate would be good.
-Are there connections to sociology we can pull in?
+\section{Learning outcomes}
 
-For case study, have some ``for instances'' and then pick one.
+TBD
 
-Allocate budget to this
+\section{Recommended background}
 
-Topics will emphasize creative thinking, user-oriented design, engineering ethics, and the appropriate use of models.
+This course is intended for graduate students, although advanced undergraduates are also welcome.\footnote{This can be ramped up or down -- as part of the Coastlines and People proposal, Drs. Pearson and Elliot suggested that this course could be integrated into the undergraduate curriculum.}
+Pre-requisites include
+\begin{itemize}
+	\item a course in probability theory and/or statistics, with some exposure to Bayesian methods;
+	\item exposure to optimization, though not necessarily an entire course;
+	\item ability to read and write computer code in at least one language; and
+	\item good written communication skills.
+\end{itemize}
 
-\section{Topics}
+\section{Materials}
 
-This course will emphasize an iterative process of: (1) framing the problem, (2) devising a model to represent relevant aspects of the system, and (3) using analytical tools to inform decisions.
-Topics will be introduced as needed based on the case study at hand.
-\begin{enumerate}
-	\item Problem framing
-	      \begin{enumerate}
-	      	\item Wicked problems \citep{rittel:1973}
-	      	\item Mental models
-	      	\item Elicitation of expert judgement
-	      \end{enumerate}
-	\item Modeling for complex systems
-	      \begin{enumerate}
-	      	\item Stochastic hydrology
-	      	\item Monte Carlo simulation
-	      	\item Exploratory vs consolidative modeling \citep{bankes:1993}
-	      	\item Model critique and validation
-	      	\item Sensitivity analysis \citep{pianosi_sensitivity:2016}
-	      \end{enumerate}
-	\item Optimization
-	      \begin{enumerate}
-	      	\item Linear programming
-	      	\item Heurstics
-	      	\item Multiobjective heuristics
-	      	\item Dynamic optimization
-	      	\item Deep uncertainty
-	      \end{enumerate}
-\end{enumerate}
+We will not follow a set textbook in this course.
+However, you should download the following three books, each of which is freely available online, to serve as useful references.
+\citet{loucks_planning:2017} provides an accessible and high-level overview of methods for water resources management.
+\citet{sutton:2018} lays out a moderately mathematical framework for reinforcement learning, which is the study of sequential decision problems.
+Finally, \citet{marchau:2019} provides an up to date summary of methods used in the Decision Making under Deep Uncertainty community.
+All other readings are available through the Rice Library; in the event that a reading is  not available through the library, it will be provided on Canvas.
+
+You will be expected to run and install the Julia programming language as part of the course.
+No prior experience with Julia is assumed.
+We will use the following Julia packages:
+\begin{itemize}
+	\item \texttt{BlackBoxOptim.jl}
+	\item \texttt{MultiOptim.jl}
+	\item \texttt{NamedArrays.jl}
+	\item \texttt{Optim.jl}
+	\item \texttt{Plots.jl}
+	\item \texttt{Pluto.jl}
+	\item \texttt{Turing.jl}
+	\item \texttt{Unitful.jl}
+\end{itemize}
+
+\section{Course outline}
+
+\emph{N.B.} This still needs substantial revision:
+\begin{itemize}
+	\item The order should be revised
+	\item There is more content here than can be covered in semester -- cut back a bit
+	\item A final version of this syllabus will also describe assignments that relate the discussion and reading to the case study.
+\end{itemize}
+\begin{fullwidth}
+	\begin{tabular}{R{1in} L{3in} L{2.5in}}
+		\toprule
+		Module           & Lesson                                        & Readings                                                        \\
+		\midrule
+		Intro            & Course outline                                & None                                                            \\
+		                 & Introduction to the case study                & TBD                                                             \\
+		                 & Introduction to Julia                         & TBD                                                             \\
+		Optimization     & Bayesian Decision Theory                      & TBD                                                             \\
+		                 & Sequential decision problems                  & \citet{sutton:2018} \S 3                                        \\
+		                 & Discounting the future                        & \citet{arrow_discount:2013}                                     \\
+		                 & Dynamic programming                           & \citet{loucks_planning:2017} \S 4.4 or \citet{sutton:2018} \S 4 \\
+		                 & Linear programming                            & \citet{loucks_planning:2017} \S 4.5                             \\
+		                 & Running and validating black-box optimization & TBD                                                             \\
+		                 & Multiobjective genetic optimization           & \citet{hadka_borg:2012}                                         \\
+		                 & Direct policy search                          & \citet{quinn_dps:2017}                                          \\
+		Critiques        & Wicked problems                               & \citet{rittel:1973}                                             \\
+		                 & Transdisciplinary                             & \citet{mobjork_transdisciplinarity:2010}                        \\
+		                 & Values and metrics                            & TBD                                                             \\
+		Modeling         & Water resources management                    & \citet{Brown:2015bl}                                            \\
+		                 & Exploratory and consolidative modeling        & \citet{bankes:1993}                                             \\
+		                 & Simulation-optimization                       & TBD                                                             \\
+		                 & Hierarchy of models                           & \citet{Held:2005cj}                                             \\
+		                 & Model selection                               & Vivek and my paper in progress?                                 \\
+		                 & Computationally expensive models              & TBD                                                             \\
+		                 & Posterior predictive checks                   & \citet{betancourt:2018b}                                        \\
+		                 & Complexity and Human-Natural Systems          & Vivek's paper in progress                                       \\
+		Robust Decisions & Deep uncertainty and robustness               & \citet{Walker:2013gi}                                           \\
+		                 & Global sensitivity analysis                   & \citet{pianosi_sensitivity:2016}                                \\
+		                 & Scenario discovery                            & \citet{kasprzyk:2013}                                           \\
+		                 & Unknown unknowns                              & \citet{taleb_blackswan:2007}                                    \\
+		                 & Robustness tradeoffs                          & \citet{anderies_panaceas:2007}                                  \\
+		                 & Alternatate framings                          & \citet{doss-gollin_sequential:2020}                             \\
+		Better Levers    & Financial instruments                         & \citet{hamilton_snowpack:2020}                                  \\
+		Synthesis        & Control and reinforcement learning            & \citet{herman_control:2020}                                     \\
+		                 & Mini-seminar (example)                        & \citet{Zeff:2016hx}                                             \\
+		                 & Mini-seminar (example)                        & \citet{Poff:2015jn}                                             \\
+	\end{tabular}
+\end{fullwidth}
 
 
 % -----------------------------------------------------------------------------
 % END HERE
 % -----------------------------------------------------------------------------
+
 \printbibliography
+
 \end{document}
