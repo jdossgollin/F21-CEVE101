@@ -2,8 +2,7 @@
 title: Class Schedule
 ---
 
-* Readings *in italics* are optional; otherwise they are mandatory.
-* All assignments are to be submitted on Canvas before class starts. Any uploads should be **PDF files**.
+Readings *in italics* are optional.
 
 ### Course Introduction
 
@@ -37,82 +36,80 @@ Sep 11
 : 1. 📰 [Determining benefits and costs for future generations](https://doi.org/10.1126/science.1235665)
 
 Sep 14
+: Spatial Data and GIS
+
+Sep 16
 : Deep Decarbonization
 : 1. 📰 [Net-zero emissions energy systems](https://doi.org/10.1126/science.aas9793)
   1. 📰 [The irreversible momentum of clean energy](https://doi.org/10.1126/science.aam6284)
 
 ### Water Systems
 
-Sep 16
+Sep 21
 : The Hydrologic Cycle
 
-Sep 21
+Sep 23
 : Water-Food-Energy Nexus
 
-Sep 23
+Sep 28
 : Drinking Water Quality
 : 1. 📰 [Colonias on the border struggle with decades-old water issues](https://www.texastribune.org/2017/08/22/colonias-border-struggle-decades-old-water-issues/)
 
-Sep 28
+Sep 30
 : Project 1 Presentations
 
-Sep 30
+Oct 5
 : Mass Balance
 
-Oct 5
+Oct 7
 : Water Treatment and Re-Use
 : 1. 📰 [Global freshwater resources: soft-path solutions for the 21st century](https://doi.org/10.1126/science.1089967)
   1. 📰 [Science and technology for water purification in the coming decades](https://doi.org/10.1038/nature06599)
 
-Oct 7
-: Water for Ecosystems
-
 Oct 12
-: Life Cycle Analysis
+: Water for Ecosystems
 
 Oct 14
 : Midterm Recess (no class)
 
-### Urban Mobility
-
 Oct 19
-: Urban Air Quality
-: 1. 🖥️ [One Breath Partnership](https://onebreathhou.org/about/)
+: Life Cycle Analysis
+
+### Houston Mobility
 
 Oct 21
-: Scheduling and Queuing
+: Urban Air Quality
 
 Oct 26
 : Network Connectivity
-: 1. Project 2 (Water Systems) Due
 
 Oct 28
 : Mobility of the Future
-: 1. Project 3 (Debate) Assigned
+:  1. Project 2 (Water Systems) Due
 
 Nov 2
-: Project Management
+: Scheduling and Queuing
 
 Nov 4
+: Project Management
+
+Nov 9
 : Project 3 (In-Class Debate)
 
 ### Coastal Resilience
 
-Nov 9
+Nov 11
 : Force Vectors
 
-Nov 11
+Nov 16
 : Statics
 
-Nov 16
+Nov 18
 : Applied Statics: Forces on a Seawall
 
-Nov 18
+Nov 23
 : Deep Uncertainty: Sea Level Rise
 : 1. 📰 [Evaluating flood resilience strategies for coastal megacities](https://doi.org/10.1126/science.1248222)
-
-Nov 23
-: Spatial Data and GIS
 
 Nov 25
 : Thanksgiving; no class
