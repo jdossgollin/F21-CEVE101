@@ -20,6 +20,8 @@ Aug 26
 
 Aug 31
 : Climate Science and Climate Change
+: 1. 🎬 [Climate Solutions 101](
+https://drawdown.org/climate-solutions-101/unit-1-setting-the-stage)
 
 Sep 2
 : Uses of Energy
