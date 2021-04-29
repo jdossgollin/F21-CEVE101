@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CEVE 101
+title: Rice CEVE 101
 tagline: Intro to Civil and Environmental Engineering
 description: Fall 2021 course at Rice University
 author: James Doss-Gollin
