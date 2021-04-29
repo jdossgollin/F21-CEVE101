@@ -13,6 +13,8 @@ description: >-
 
 ---
 
+> _All policies are **PRELIMINARY** and subject to change without notice before the semester starts. Once the semester starts, the class will participate in any proposed changes._
+
 ## A Community of Learning
 
 Rice's [core values](https://www.rice.edu/mission-values) are responsibility, integrity, community, and excellence.
@@ -58,27 +60,24 @@ Uploading course materials to web sites is not an authorized use of the course m
 
 ### Accommodation for Students with Disabilities
 
-If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me, or have the Disability Resources office reach out to me, at least one week prior to the first exam. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them at access@andrew.cmu.edu. Disability Resources, 102 Whitfield Hall 412.268.2013.
+If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me, or have the Disability Resource Center  reach out to me, at least one week prior to the first exam.
+I will work with you to ensure that accommodations are provided as appropriate.
+If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Disability Resource Center, I encourage you to [reach out to them](https://drc.rice.edu/).
 
-### Accomodation for Religious Events
+### Accommodation for Religious Events
 
 If any of our class meetings conflict with your religious events, please let me know so that we can make arrangements with you.
 
 ### Class Decorum
 
-The classroom is a professional educational setting, and students should view themselves as members in a peer community. Disrespectful behavior is not acceptable in a professional setting and will not be tolerated in the classroom.  
-
+The classroom is a professional educational setting, and students should view themselves as members in a peer community.
+Disrespectful behavior is not acceptable in a professional setting and will not be tolerated in the classroom.  
 
 ## Materials
 
 ### Textbook
 
-There is no required textbook, and material will be covered by Handouts that are distributed in class and posted on Canvas. An extensive treatment of some topics introduced in this course is found in the textbook Project Management for Construction, Hendrickson and Au, which those CEE Professors have graciously placed in the public domain at https://www.cmu.edu/cee/projects/PMbook/.  and readings from that textbook are listed in the syllabus.
-Additional required readings will be posted on the course Canvas site.
-
-### Required Materials
-
-The only materials required is a pad of green engineering paper (100-sheet should be fine) for homework, a 6-inch, one 30 or 45 or 90 degree triangle (doesn't matter which kind or material), a mechanical pencil, and a separate eraser. You can get these wherever you want. The CMU bookstore has everything but the triangle, the CMU art store has all of these items.  
+A textbook may be assigned.
 
 ## Assignments and Grading
 
@@ -89,6 +88,7 @@ I will assign grades using the following numeric to grade conversion scale:
 | F   |  D- | D | D+ | C- | C  | C+ | B- | B  | B+ | A- | A   |
 
 All assignments to be submitted on Canvas **in PDF format**.
+You are welcome to do your assignment by hand and scan it using a free application such as [Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html).
 
 ### Problem Sets
 
@@ -102,9 +102,13 @@ Reading reflections will be graded as either complete (full points), partially c
 No other partial credit will be offered.
 No late reading assignments will be accepted, but the lowest five will be dropped.
 
-### Projects
+### Group Projects
 
-Group Projects and Presentations:  There will be three group projects in the course.  These projects will be conducted in groups of four to five people.  Groups will be assigned by the instructor.  The projects will require coordinated group effort.  There will be peer evaluation after each project, and peer ratings will be used in calculating individual scores for group projects.  There will be written and oral reports for each project.  Only some groups will give oral presentations for each project.  All students will have an opportunity to make an oral presentation during the semester.  In the oral presentations, each member of the group will present a portion of the overall report.  Detailed guidance for the content of the written and oral reports will be distributed.  
+There will be four group projects in the course.
+These projects will be conducted in groups of four to five people.
+Groups will be assigned by the instructor.
+The projects will require coordinated group effort.
+There will be peer evaluation after each project, and peer ratings will be used in calculating individual scores for group projects.
 
 ### Grading (subject to change)
 

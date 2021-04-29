@@ -50,18 +50,31 @@ On completing this course, students should be able to:
 - Create and present an oral report on a design project
 - Collaborate with peers in project teams and in composing project reports
 
+## Course Organization
+
+The course is organized into four modules:
+
+1. Energy Systems
+1. Water Systems
+1. Urban Mobility
+1. Coastal Resilience
+
+Through the lense of these four topics, which sample only part of the breadth of Civil and Environmental Engineering, we will explore how foundational tools and analyses can be used to develop a more sustainable, resilient, and equitable built environment.
+For each module, students will work on a project in groups and present using a different presentation format (long written report, policy brief, in-class presentation, and digital presentation).
+
 ## Related Courses
 
 If you are interested in this course, you may also be interested in the following courses:
 
 - **ENGI 120** is a design course offered through the [design kitchen](http://oedk.rice.edu/). While engineering design is a large component of this course, it is the main focus of ENGI 120. You should take ENGI 120 if you want to build prototypes or to participate in a semester-long design project. You should take this course if you want to learn about the field of civil and environmental engineering through a set of more focused design projects.
-- *is there another related course?* Create an issue at https://github.com/jdossgollin/course-ceve-101/issues and I will add it to this list.
+- *is there another related course?* Create an issue at [https://github.com/jdossgollin/course-ceve-101/issues](https://github.com/jdossgollin/course-ceve-101/issues) and I will add it to this list.
 
 ## Syllabus Credit
 
 This course builds on resources and courses developed by other scholars:
 
-- I use the the [Just the Class](https://github.com/kevinlin1/just-the-class/) website template by [Kevin Lin](https://kevinl.info/)
+- This digital syllabus uses the the [Just the Class](https://github.com/kevinlin1/just-the-class/) website template by [Kevin Lin](https://kevinl.info/)
 - Many thanks to [Costa Samaras](costasamaras.com/) for sharing the syllabus of his "Exploring CEE: Infrastructure and Environment in a Changing World" course at  Carnegie Mellon University
 - Thanks to [Upmanu Lall](http://www.columbia.edu/~ula2/) for sharing course materials for his "A Better Planet by Design" course at Columbia University
-- Thanks also to [Larry Wilen](https://seas.yale.edu/people/research-staff/lawrence-wilen) and [Vince Wilczynski](https://seas.yale.edu/vincent-wilczynski) of Yale University and  [Tal Cohen](https://cee.mit.edu/people_individual/tal-cohen/) of MIT for sharing syllabi for their design-based courses
+- Thanks to [Larry Wilen](https://seas.yale.edu/people/research-staff/lawrence-wilen) and [Vince Wilczynski](https://seas.yale.edu/vincent-wilczynski) of Yale University and to [Tal Cohen](https://cee.mit.edu/people_individual/tal-cohen/) of MIT for sharing syllabi for their design-based courses
+- Thanks to [Jeremiah Johnson](https://www.ccee.ncsu.edu/people/jjohns24/)  of NC State for sharing an activity on water tariffs

@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
+title: Sign Up for This Course!
 week: 0
-date: 2019-04-01
+date: 2021-04-29
 ---
 
-Hello world!
+Sign Up
 {: .fs-5 }

@@ -2,7 +2,7 @@
 title: Class Schedule
 ---
 
-Readings *in italics* are optional.
+> *All readings and modules are **PRELIMINARY** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas.*
 
 ### Course Introduction
 
@@ -45,7 +45,7 @@ Sep 16
 : 1. 📰 [Net-zero emissions energy systems](https://doi.org/10.1126/science.aas9793)
   1. 📰 [The irreversible momentum of clean energy](https://doi.org/10.1126/science.aam6284)
 
-### Water Systems
+### Urban Systems
 
 Sep 21
 : The Hydrologic Cycle
@@ -77,17 +77,17 @@ Oct 14
 Oct 19
 : Life Cycle Analysis
 
-### Houston Mobility
+### Urban Mobility
 
 Oct 21
 : Urban Air Quality
 
 Oct 26
-: Network Connectivity
+: Design a Bike Lane ([Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) guest lecture)
 
 Oct 28
 : Mobility of the Future
-:  1. Project 2 (Water Systems) Due
+:  1. Project 2 (Water Systems) Report Due
 
 Nov 2
 : Scheduling and Queuing
@@ -96,7 +96,7 @@ Nov 4
 : Project Management
 
 Nov 9
-: Project 3 (In-Class Debate)
+: Project 3 (Bike Lane) Presentations
 
 ### Coastal Resilience
 
