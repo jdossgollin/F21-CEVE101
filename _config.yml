@@ -18,7 +18,7 @@ tagline: Intro to Civil and Environmental Engineering
 description: Fall 2021 course at Rice University
 author: James Doss-Gollin
 baseurl: "/F21-CEVE101" # the subpath of your site, e.g. /blog
-url: "https://dossgollin-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jdossgollin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
