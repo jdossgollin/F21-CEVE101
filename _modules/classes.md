@@ -2,7 +2,7 @@
 title: Class Schedule
 ---
 
-> *All readings and modules are **PRELIMINARY** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas.*
+> *All readings and modules are **PRELIMINARY** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas. More readings will be added before the start of the semseter.*
 
 ### Course Introduction
 

@@ -113,8 +113,8 @@ There will be peer evaluation after each project, and peer ratings will be used 
 ### Grading (subject to change)
 
 | Reading Reflections   | Due every class   | 20% |
-| Problem sets   | Approximately biweekly   | 20% |
-| Project 1   | Group presentations | 15%  |
-| Project 3   | Group report | 15% |
-| Project 3   | Team debate | 10% |
-| Project 4   | Group presentation and report | 20% |
+| Problem sets   | Approximately biweekly   | 15% |
+| Project 1   | Policy brief | 15%  |
+| Project 2   | Digital presentation | 15% |
+| Project 3   | Oral presentation | 15% |
+| Project 4   | Final Report | 20% |
