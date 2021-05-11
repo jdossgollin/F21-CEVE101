@@ -264,7 +264,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-commonmark-ghpages
 
 BUNDLED WITH
    1.17.2

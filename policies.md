@@ -114,7 +114,7 @@ There will be peer evaluation after each project, and peer ratings will be used 
 
 | Reading Reflections   | Due every class   | 20% |
 | Problem sets   | Approximately biweekly   | 15% |
-| Project 1   | Policy brief | 15%  |
+| Project 1   | Oral presentation | 15% |
 | Project 2   | Digital presentation | 15% |
-| Project 3   | Oral presentation | 15% |
+| Project 3   | Policy brief | 15%  |
 | Project 4   | Final Report | 20% |

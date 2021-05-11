@@ -8,119 +8,120 @@ title: Class Schedule
 
 Aug 24
 : Course Expectations and Engineering Ethics
-: 1. Read the course policies and write down five proposed changes
-  1. Write one page on what your motivations are for taking this course.
 
 Aug 26
 : Infrastructure, Values, and Equity
-: 1. 📰 [How Segregation Caused Your Traffic Jam](https://www.nytimes.com/interactive/2019/08/14/magazine/traffic-atlanta-segregation.html)
-  1. 📖 Power Broker, pp. 478-483 and Chapters 36-37
+: 1. 🗓 Problem Set 1 Due
+
+Aug 31
+: Data Science with Python I
+
+Sep 2
+: Data Science with Python II
+: 1. 🗓 Problem Set 2 Due
 
 ### Energy Systems
 
-Aug 31
-: Climate Science and Climate Change
-: 1. 🎬 [Climate Solutions 101](
-https://drawdown.org/climate-solutions-101/unit-1-setting-the-stage)
-
-Sep 2
-: Uses of Energy
-
 Sep 7
-: Electric Power Generation
-: 1. 🔈 *[Solar in Alberta: What does it look like and how do we manage it? ](https://www.energyvsclimate.com/p/solar-alberta-podcast)*
+: Uses and Sources of Energy
 
 Sep 9
-: Electricity Transmission and Efficiency
-
-Sep 11
-: Engineering Economics
-: 1. 📰 [Determining benefits and costs for future generations](https://doi.org/10.1126/science.1235665)
+: Climate Science and Climate Change
+: 1. 🗓 Problem Set 3 Due
 
 Sep 14
-: Spatial Data and GIS
+: Energy Transfer and Conversion
 
 Sep 16
-: Deep Decarbonization
-: 1. 📰 [Net-zero emissions energy systems](https://doi.org/10.1126/science.aas9793)
-  1. 📰 [The irreversible momentum of clean energy](https://doi.org/10.1126/science.aam6284)
-
-### Urban Systems
+: Cost-Benefit Analysis and Beyond
+  1. 🗓 Problem Set 4 Due
 
 Sep 21
-: The Hydrologic Cycle
+: Energy Storage
 
 Sep 23
-: Water-Food-Energy Nexus
+: Renewable Energy
+: 1. 🗓 Problem Set 5 Due
+  1. ✏️ Project 1 Assigned
+
+### Urban Water
 
 Sep 28
-: Drinking Water Quality
-: 1. 📰 [Colonias on the border struggle with decades-old water issues](https://www.texastribune.org/2017/08/22/colonias-border-struggle-decades-old-water-issues/)
+: The Hydrologic Cycle
 
 Sep 30
-: Project 1 Presentations
+: Stormwater and Flooding
+: 1. 🗓 Problem Set 6 Due
 
 Oct 5
-: Mass Balance
+: Water Quality and Treatment
 
 Oct 7
-: Water Treatment and Re-Use
-: 1. 📰 [Global freshwater resources: soft-path solutions for the 21st century](https://doi.org/10.1126/science.1089967)
-  1. 📰 [Science and technology for water purification in the coming decades](https://doi.org/10.1038/nature06599)
+: Water Re-Use and 'One Water'
+: 1. 🗓 Problem Set 7 Due
 
 Oct 12
-: Water for Ecosystems
+: Project 1 Presentations
 
 Oct 14
 : Midterm Recess (no class)
 
 Oct 19
-: Life Cycle Analysis
-
-### Urban Mobility
+: Water Tariffs
 
 Oct 21
-: Urban Air Quality
+: Household Water Security
+: 1. 🗓 Problem Set 8 Due
+  1. ⚡️ Project 2 Assigned
+
+### Transportation
 
 Oct 26
-: Design a Bike Lane ([Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) guest lecture)
+: Guest Lecture [Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) -- Design a Bike Lane
 
 Oct 28
-: Mobility of the Future
-:  1. Project 2 (Water Systems) Report Due
+: Urban Air Quality
+: 1. 🗓 Problem Set 9 Due
 
 Nov 2
-: Scheduling and Queuing
+: Networks and Connectivity
 
 Nov 4
-: Project Management
-
-Nov 9
-: Project 3 (Bike Lane) Presentations
+: Mobility of the Future
+: 1. 🗓 Project 2 Due
+: 1. ⚡️ Project 3 Assigned -- Design a Bike Lane (Policy Brief)
+: 1. 🗓 Problem Set 10 Due
 
 ### Coastal Resilience
 
-Nov 11
+Nov 9
 : Force Vectors
 
-Nov 16
+Nov 11
 : Statics
+: 1. 🗓 Problem Set 11 Due
 
-Nov 18
+Nov 16
 : Applied Statics: Forces on a Seawall
 
+Nov 18
+: Exposure, Hazard, and Vulnerability
+: 1. 🗓 Problem Set 12 Due
+
 Nov 23
-: Deep Uncertainty: Sea Level Rise
-: 1. 📰 [Evaluating flood resilience strategies for coastal megacities](https://doi.org/10.1126/science.1248222)
+: Project 3 Presentations
 
 Nov 25
-: Thanksgiving; no class
+: Thanksgiving, no class
 
 Nov 30
-: Vulnerability
+: Uncertainty and Sea Level Rise
+: 1. 📰 [Evaluating flood resilience strategies for coastal megacities](https://doi.org/10.1126/science.1248222)
 
 Dec 2
 : Galveston Bay Park Plan
+: 1. 🗓 Problem Set 13 Due
+  1. ⚡️ Project 4 Assigned -- Design a Seawall
 
 Final
 : Project 4 Presentations
