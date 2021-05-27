@@ -116,7 +116,6 @@ Nov 25
 
 Nov 30
 : Uncertainty and Sea Level Rise
-: 1. 📰 [Evaluating flood resilience strategies for coastal megacities](https://doi.org/10.1126/science.1248222)
 
 Dec 2
 : Galveston Bay Park Plan
