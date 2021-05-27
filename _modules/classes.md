@@ -23,41 +23,41 @@ Sep 2
 ### Energy Systems
 
 Sep 7
-: Uses and Sources of Energy
+: Climate Science and Climate Change
 
 Sep 9
-: Climate Science and Climate Change
+: The Energy System: Uses, Sources, and Carbon Intensities
 : 1. 🗓 Problem Set 3 Due
 
 Sep 14
 : Energy Transfer and Conversion
 
 Sep 16
-: Cost-Benefit Analysis and Beyond
+: Renewable Energy
   1. 🗓 Problem Set 4 Due
 
 Sep 21
 : Energy Storage
 
 Sep 23
-: Renewable Energy
+: Cost-Benefit Analysis and Beyond
 : 1. 🗓 Problem Set 5 Due
   1. ✏️ Project 1 Assigned
 
 ### Urban Water
 
 Sep 28
-: The Hydrologic Cycle
+: Household Water Security
 
 Sep 30
-: Stormwater and Flooding
+: The Hydrologic Cycle
 : 1. 🗓 Problem Set 6 Due
 
 Oct 5
-: Water Quality and Treatment
+: Stormwater and Flooding
 
 Oct 7
-: Water Re-Use and 'One Water'
+: Water Quality and Treatment
 : 1. 🗓 Problem Set 7 Due
 
 Oct 12
@@ -67,10 +67,10 @@ Oct 14
 : Midterm Recess (no class)
 
 Oct 19
-: Water Tariffs
+: Water Re-Use and 'One Water'
 
 Oct 21
-: Household Water Security
+: Water Tariffs
 : 1. 🗓 Problem Set 8 Due
   1. ⚡️ Project 2 Assigned
 
@@ -95,10 +95,10 @@ Nov 4
 ### Coastal Resilience
 
 Nov 9
-: Force Vectors
+: Hurricane Vulnerability
 
 Nov 11
-: Statics
+: Guest Lecture [Dr. Jamie Padgett](https://padgett.rice.edu/) -- Introduction to Statics and Mechanics
 : 1. 🗓 Problem Set 11 Due
 
 Nov 16
@@ -123,5 +123,5 @@ Dec 2
 : 1. 🗓 Problem Set 13 Due
   1. ⚡️ Project 4 Assigned -- Design a Seawall
 
-Final
+TBD
 : Project 4 Presentations
