@@ -54,7 +54,7 @@ Sep 30
 : 1. 🗓 Problem Set 6 Due
 
 Oct 5
-: Stormwater and Flooding
+: Field Trip (To Be Confirmed) -- Stormwater and Flooding
 
 Oct 7
 : Water Quality and Treatment
