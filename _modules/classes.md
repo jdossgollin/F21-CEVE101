@@ -2,9 +2,9 @@
 title: Class Schedule
 ---
 
-> *All readings and modules are **PRELIMINARY** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas. More readings will be added before the start of the semseter.*
+> *All readings and modules are **preliminary** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas. More readings will be added before the start of the semseter.*
 
-### Course Introduction
+## Course Introduction
 
 Aug 24
 : Course Expectations and Engineering Ethics
@@ -20,7 +20,7 @@ Sep 2
 : Data Science with Python II
 : 1. 🗓 Problem Set 2 Due
 
-### Energy Systems
+## Energy Systems
 
 Sep 7
 : Climate Science and Climate Change
@@ -30,10 +30,10 @@ Sep 9
 : 1. 🗓 Problem Set 3 Due
 
 Sep 14
-: Energy Transfer and Conversion
+: Renewable Energy
 
 Sep 16
-: Renewable Energy
+: Guest Lecture [Dr. Gayle Moran](https://profiles.rice.edu/faculty/gayle-moran) -- Introduction to Engineering Communications
   1. 🗓 Problem Set 4 Due
 
 Sep 21
@@ -44,7 +44,7 @@ Sep 23
 : 1. 🗓 Problem Set 5 Due
   1. ✏️ Project 1 Assigned
 
-### Urban Water
+## Urban Water
 
 Sep 28
 : Household Water Security
@@ -74,7 +74,7 @@ Oct 21
 : 1. 🗓 Problem Set 8 Due
   1. ⚡️ Project 2 Assigned
 
-### Transportation
+## Transportation
 
 Oct 26
 : Guest Lecture [Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) -- Design a Bike Lane
@@ -92,7 +92,7 @@ Nov 4
 : 1. ⚡️ Project 3 Assigned -- Design a Bike Lane (Policy Brief)
 : 1. 🗓 Problem Set 10 Due
 
-### Coastal Resilience
+## Coastal Resilience
 
 Nov 9
 : Hurricane Vulnerability

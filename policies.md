@@ -20,6 +20,16 @@ description: >-
 Rice's [core values](https://www.rice.edu/mission-values) are responsibility, integrity, community, and excellence.
 Our goal is to create a learning community aligned with these core values.
 
+### COVID-19
+
+We are experiencing a deadly global pandemic that has challenged us all in different ways.
+Despite challenges, we can and will get through this together!
+
+1. Respect the health and safety of your classmates and instructors. Follow all policies posted at [https://coronavirus.rice.edu/](https://coronavirus.rice.edu/), including around mask wearing and testing. Do not come to class if you feel unwell, even if it's not COVID.
+1. Empathize with your classmates.
+1. Include any classmates who aren't able to join us in person. Use tools like Zoom, Google Drive, and Slack to organize team projects.
+1. Reach out to your instructors if you need an extension or other accommodations. We're here to support you, but you need to tell us what you need.
+
 ### Attendance
 
 Class attendance and note-taking is essential in this course.
@@ -37,8 +47,6 @@ We acknowledge our imperfections while we also fully commit to the work, inside 
 Each of us is responsible for creating a safer, more inclusive environment.
 Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional.
 They contribute to creating an unwelcoming environment for individuals and groups at the university.
-
-
 
 ### Academic Integrity
 
@@ -72,7 +80,7 @@ If any of our class meetings conflict with your religious events, please let me 
 ### Class Decorum
 
 The classroom is a professional educational setting, and students should view themselves as members in a peer community.
-Disrespectful behavior is not acceptable in a professional setting and will not be tolerated in the classroom.  
+Disrespectful behavior is not acceptable in a professional setting and will not be tolerated in the classroom.
 
 ## Materials
 
