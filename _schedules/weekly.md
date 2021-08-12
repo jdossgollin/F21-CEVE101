@@ -25,13 +25,13 @@ schedule:
       - name: Lecture
         start: 2:30 PM
         end: 3:45 PM
-        location: TBD
+        location: Ryon 201
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 2:30 PM
         end: 3:45 PM
-        location: TBD
+        location: Ryon
   - name: Friday
 ---
