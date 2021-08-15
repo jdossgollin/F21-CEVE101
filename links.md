@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Useful Links
 nav_exclude: false
 description: Some useful links and resources
 ---

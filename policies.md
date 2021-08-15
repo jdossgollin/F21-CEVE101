@@ -20,16 +20,6 @@ description: >-
 Rice's [core values](https://www.rice.edu/mission-values) are responsibility, integrity, community, and excellence.
 Our goal is to create a learning community aligned with these core values.
 
-### COVID-19
-
-We are experiencing a deadly global pandemic that has challenged us all in different ways.
-Despite challenges, we can and will get through this together!
-
-1. Respect the health and safety of your classmates and instructors. Follow all policies posted at [https://coronavirus.rice.edu/](https://coronavirus.rice.edu/), including around mask wearing and testing. Do not come to class if you feel unwell, even if it's not COVID.
-1. Empathize with your classmates.
-1. Include any classmates who aren't able to join us in person. Use tools like Zoom, Google Drive, and Slack to organize team projects.
-1. Reach out to your instructors if you need an extension or other accommodations. We're here to support you, but you need to tell us what you need.
-
 ### Attendance
 
 Class attendance and note-taking is essential in this course.
@@ -48,19 +38,14 @@ Each of us is responsible for creating a safer, more inclusive environment.
 Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional.
 They contribute to creating an unwelcoming environment for individuals and groups at the university.
 
-### Academic Integrity
+### Rice Honor Code
 
-All work submitted in this course is subject to the [Rice Honor Code](http://honor.rice.edu/).
+In this course, all students will be held to the standards of the Rice Honor Code, a code that you pledged to honor when you matriculated at
+this institution.
+If you are unfamiliar with the details of this code and how it is administered, you should consult the Honor System Handbook at [honor.rice.edu/honor-system-handbook/](https://honor.rice.edu/honor-system-handbook/).
+This handbook outlines the University's expectations for the integrity of your academic work, the procedures for resolving alleged violations of those expectations, and the rights and responsibilities of students and faculty members throughout the process.
 
-Students are required to do individual work on individual assessments.
-Discussions with other students about concepts and overall approaches to completing individual assignments are permitted, but copying from another student’s assignment constitutes plagiarism, which is a violation of academic integrity.
-Using information directly from websites, books, papers and other literary sources without appropriate attribution is also plagiarism.
-
-Assignments submitted for this class will be reviewed by the instructor and may be scanned through web-based academic integrity software.
-Occurrences of cheating or plagiarism will be handled according to the university honor code.
-Students are expected to have read this policy and conform to the highest standards of academic integrity.
-
-If you are unsure if a specific action or activity constitutes unacceptable collaboration or cheating, ASK FIRST.
+If you have any questions, ask first!
 
 ### Policy on Web Posting of Course Materials
 
@@ -69,26 +54,19 @@ Both the poster and the user are in violation of the university policy, which is
 
 ### Accommodation for Students with Disabilities
 
-If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me, or have the Disability Resource Center reach out to me, at least one week prior to the first exam.
-I will work with you to ensure that accommodations are provided as appropriate.
-If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Disability Resource Center, I strongly encourage you to [reach out to them](https://drc.rice.edu/).
+If you have a documented disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with the Disability Resource Center (Allen Center, Room 111 / [adarice@rice.edu](mailto:adarice@rice.edu) / x5841) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
 
 ### Accommodation for Religious Events
 
 If any of our class meetings conflict with your religious events, please let me know so that we can make arrangements with you.
 
-### Class Decorum
-
-The classroom is a professional educational setting, and students should view themselves as members in a peer community.
-Disrespectful behavior is not acceptable in a professional setting and will not be tolerated in the classroom.
 
 ## Materials
 
 ### Textbook
 
-No textbook is required.
 All readings will be posted on Canvas.
-You may need to access material in Fondren Library, and to access journal articles.
+You will need to access digital material from Fondren Library, including journal articles.
 
 ## Assignments and Grading
 
@@ -105,11 +83,8 @@ There are also scanners that you can use, e.g. [in Fondren](https://library.rice
 ### Problem Sets
 
 Regular homework assignments, often called "problem sets" in engineering, are integral to learning.
-There will be problem sets on the material covered in class and in the handouts.
-The specifications in the Homework Preparation Guide for the course must be followed so please read these carefully.
-Each assignment has a summary page that functions both as a rubric and grading sheet.
-It must be submitted as a cover sheet for each assignment.
-The rubric provides important information regarded grading, and students are encouraged to review it prior to beginning problems.
+The role of problem sets in this course is to give you a chance to apply the tools we cover in class to new contexts.
+Problem sets are designed to take approximately five hours; if you find yourself spending more than ten hours on them, please come to office hours to discuss!
 
 ### Reading Reflections
 

@@ -11,14 +11,14 @@ Aug 24
 
 Aug 26
 : Infrastructure, Values, and Equity
-: 1. 🗓 Problem Set 1 Due
+: 1. 🗓 Problem Set 1 due
 
 Aug 31
 : Data Science with Python I
 
 Sep 2
 : Data Science with Python II
-: 1. 🗓 Problem Set 2 Due
+: 1. 🗓 Problem Set 2 due
 
 ## Energy Systems
 
@@ -27,22 +27,22 @@ Sep 7
 
 Sep 9
 : The Energy System: Uses, Sources, and Carbon Intensities
-: 1. 🗓 Problem Set 3 Due
+: 1. 🗓 Problem Set 3 due
 
 Sep 14
 : Renewable Energy
 
 Sep 16
 : Guest Lecture [Dr. Gayle Moran](https://profiles.rice.edu/faculty/gayle-moran) -- Introduction to Engineering Communications
-  1. 🗓 Problem Set 4 Due
+  1. 🗓 Problem Set 4 due
 
 Sep 21
 : Energy Storage
 
 Sep 23
 : Cost-Benefit Analysis and Beyond
-: 1. 🗓 Problem Set 5 Due
-  1. ✏️ Project 1 Assigned
+: 1. 🗓 Problem Set 5 due
+  1. ✏️ Project 1 assigned -- analyze a proposed Texas energy project (oral presentation)
 
 ## Urban Water
 
@@ -51,28 +51,28 @@ Sep 28
 
 Sep 30
 : The Hydrologic Cycle
-: 1. 🗓 Problem Set 6 Due
+: 1. 🗓 Problem Set 6 due
 
 Oct 5
 : Field Trip (To Be Confirmed) -- Stormwater and Flooding
 
 Oct 7
 : Water Quality and Treatment
-: 1. 🗓 Problem Set 7 Due
 
 Oct 12
-: Project 1 Presentations
+: Midterm Recess (no class)
 
 Oct 14
-: Midterm Recess (no class)
+: Project 1 Presentations
+: 1. 🗓 Problem Set 7 due
 
 Oct 19
 : Water Re-Use and 'One Water'
 
 Oct 21
 : Water Tariffs
-: 1. 🗓 Problem Set 8 Due
-  1. ⚡️ Project 2 Assigned
+: 1. 🗓 Problem Set 8 due
+  1. ⚡️ Project 2 assigned -- revise water tariffs (policy brief)
 
 ## Transportation
 
@@ -81,16 +81,16 @@ Oct 26
 
 Oct 28
 : Urban Air Quality
-: 1. 🗓 Problem Set 9 Due
+: 1. 🗓 Problem Set 9 due
 
 Nov 2
 : Networks and Connectivity
 
 Nov 4
 : Mobility of the Future
-: 1. 🗓 Project 2 Due
-: 1. ⚡️ Project 3 Assigned -- Design a Bike Lane (Policy Brief)
-: 1. 🗓 Problem Set 10 Due
+: 1. 🗓 Project 2 Reports due
+: 1. ⚡️ Project 3 assigned -- design a bike lane (digital presentation)
+: 1. 🗓 Problem Set 10 due
 
 ## Coastal Resilience
 
@@ -99,14 +99,14 @@ Nov 9
 
 Nov 11
 : Guest Lecture [Dr. Jamie Padgett](https://padgett.rice.edu/) -- Introduction to Statics and Mechanics
-: 1. 🗓 Problem Set 11 Due
+: 1. 🗓 Problem Set 11 due
 
 Nov 16
 : Applied Statics: Forces on a Seawall
 
 Nov 18
 : Exposure, Hazard, and Vulnerability
-: 1. 🗓 Problem Set 12 Due
+: 1. 🗓 Problem Set 12 due
 
 Nov 23
 : Project 3 Presentations
@@ -118,9 +118,9 @@ Nov 30
 : Uncertainty and Sea Level Rise
 
 Dec 2
-: Galveston Bay Park Plan
-: 1. 🗓 Problem Set 13 Due
-  1. ⚡️ Project 4 Assigned -- Design a Seawall
+: Guest Lecture [Dr. Phil Bedient](https://profiles.rice.edu/faculty/philip-bedient) -- Galveston Bay Park Plan
+: 1. 🗓 Problem Set 13 due
+  1. ⚡️ Project 4 assigned -- design a seawall (written report)
 
 TBD
 : Project 4 Presentations

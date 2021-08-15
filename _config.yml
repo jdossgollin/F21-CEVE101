@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rice CEVE 101
-tagline: Intro to Civil and Environmental Engineering
-description: Fall 2021 course at Rice University
+tagline: Fundamentals of Civil and Environmental Engineering
+description: Sustainable, Resilient, and Equitable Infrastructure Services
 author: James Doss-Gollin
 baseurl: "/F21-CEVE101" # the subpath of your site, e.g. /blog
 url: "https://jdossgollin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,7 +37,6 @@ collections:
   staffers:
   modules:
   schedules:
-  announcements:
 
 # Default layouts for each collection type
 defaults:
@@ -57,11 +56,6 @@ defaults:
       type: schedules
     values:
       layout: schedule
-  - scope:
-      path: ""
-      type: announcements
-    values:
-      layout: announcement
 
 compress_html:
   clippings: all
