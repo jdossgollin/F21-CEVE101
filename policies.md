@@ -86,14 +86,21 @@ Regular homework assignments, often called "problem sets" in engineering, are in
 The role of problem sets in this course is to give you a chance to apply the tools we cover in class to new contexts.
 Problem sets are designed to take approximately five hours; if you find yourself spending more than ten hours on them, please come to office hours to discuss!
 
+Problem sets will be due at 2:29PM on the days assigned -- i.e., right before class starts.
+Late problem sets will not be accepted -- turn in whatever you have.
+This allows us to discuss the problem set in class while it's still fresh in everyone's mind.
+We will drop at least the lowest 1 problem set.
+
 ### Reading Reflections
 
 In order to foster a discussion-based class format, readings will be assigned before each class.
 A brief reflection or exercise based on the reading will also be assigned, and will be due at the start of class.
-Reading reflections will be graded as either complete (full points), partially complete (half points), or incomplete (no points).
-No other partial credit will be offered.
+Reading reflections will be graded as either complete (2 points), partially complete (1 point), or incomplete (0 points).
 No late reading assignments will be accepted, but the lowest three will be dropped.
 
+Problem sets will be due at 1:30PM on the days assigned -- i.e., one hour before class starts.
+This allows me to read through these responses as I prepare for class.
+Late problem sets will lose one point.
 Please bring your reading reflection with you to class; you may be called upon and asked to share your thoughts.
 
 ### Group Projects
