@@ -64,7 +64,6 @@ If you have a documented disability or other condition that may affect academic 
 
 If any of our class meetings conflict with your religious events, please let me know so that we can make arrangements with you.
 
-
 ## Materials
 
 ### Textbook

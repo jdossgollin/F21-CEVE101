@@ -2,7 +2,7 @@
 title: Class Schedule
 ---
 
-> *All readings and modules are **preliminary** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas. More readings will be added before the start of the semseter.*
+> *All readings and modules are **preliminary** and subject to change without notice before the semester starts. Once the semester starts, the class will be advised of any changes using Canvas. More readings will be added before the start of the semester.*
 
 ## Course Introduction
 
@@ -11,7 +11,6 @@ Aug 24
 
 Aug 26
 : Infrastructure, Values, Ethics, and Equity
-: 1. 🗓 Problem Set 0 due
 
 Aug 31
 : Data Science with Python I
@@ -64,7 +63,7 @@ Oct 19
 : Water Re-Use and 'One Water'
 
 Oct 21
-: Project 1 Presentations
+: 🗓 Project 1 Presentations
 : ⚡️ Project 2 assigned -- revise water tariffs (policy brief)
 
 ## Transportation
