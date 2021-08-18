@@ -21,22 +21,22 @@ Sep 2
 ## Energy Systems
 
 Sep 7
-: An Overview of Climate Science and Climate Change
+: Climate Science and Climate Change
 
 Sep 9
 : The Energy System: Uses, Sources, and Carbon Intensities
 
 Sep 14
-: Renewable Energy
+: Generating and Storing Renewable Energy
 
 Sep 16
-: Guest Lecture [Dr. Gayle Moran](https://profiles.rice.edu/faculty/gayle-moran) -- Introduction to Engineering Communications
+: Guest Lecture [Dr. Gayle Moran](https://profiles.rice.edu/faculty/gayle-moran) -- Engineering Communications
 
 Sep 21
-: Energy Storage
+: Cost-Benefit Analysis and Beyond
 
 Sep 23
-: Cost-Benefit Analysis and Beyond
+: Electricity Markets and Transmission
 : ⚡️ Project 1 assigned -- analyze a proposed Texas energy project (oral presentation)
 
 ## Urban Water
@@ -51,20 +51,20 @@ Oct 5
 : Field Trip (To Be Confirmed) -- Stormwater and Flooding
 
 Oct 7
-: Water Quality and Treatment
+: Mass Balance
 
 Oct 12
 : Midterm Recess (no class)
 
 Oct 14
-: Water Tariffs
+: Water Treatment Processes
 
 Oct 19
-: Water Re-Use and 'One Water'
+: 🗓 Project 1 Presentations
 
 Oct 21
-: 1. 🗓 Project 1 Presentations
-  1. ⚡️ Project 2 assigned -- revise water tariffs (policy brief)
+: 1. Water Tariffs
+  1. ⚡️ Project 2 assigned -- rainfall harvesting in the semi-arid Brazil Nordeste
 
 ## Transportation
 
@@ -72,7 +72,7 @@ Oct 26
 : Guest Lecture [Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) -- Design a Bike Lane
 
 Oct 28
-: Urban Air Quality
+: Traffic
 
 Nov 2
 : Networks and Connectivity
@@ -80,21 +80,21 @@ Nov 2
 Nov 4
 : Mobility of the Future
 : 1. 🗓 Project 2 Reports due
-  1. ⚡️ Project 3 assigned -- design a bike lane (digital presentation)
+  1. ⚡️ Project 3 assigned -- design a bus lane in Houston (digital presentation)
 
 ## Coastal Resilience
 
 Nov 9
-: The Past and Future of Hurricanes and their Impacts
+: Hurricanes, Impacts, and Climate Change
 
 Nov 11
 : Guest Lecture [Dr. Jamie Padgett](https://padgett.rice.edu/) -- Introduction to Statics and Mechanics
 
 Nov 16
-: Applied Statics: Forces on a Seawall
+: Exposure, Hazard, and Vulnerability
 
 Nov 18
-: Exposure, Hazard, and Vulnerability
+: Uncertainty and Sea Level Rise
 
 Nov 23
 : 🗓 Project 3 Showcases (In-Class)
@@ -103,11 +103,11 @@ Nov 25
 : Thanksgiving, no class
 
 Nov 30
-: Uncertainty and Sea Level Rise
+: Natural and Nature-Based Infrastructure
+: ⚡️ Project 4 assigned -- coastal resilience in Galveston Bay (written report)
 
 Dec 2
 : Guest Lecture [Dr. Phil Bedient](https://profiles.rice.edu/faculty/philip-bedient) -- Galveston Bay Park Plan
-: ⚡️ Project 4 assigned -- design a seawall (written report)
 
 TBD
 : 🗓 Project 4 Presentations
