@@ -63,8 +63,8 @@ Oct 19
 : Water Re-Use and 'One Water'
 
 Oct 21
-: 🗓 Project 1 Presentations
-: ⚡️ Project 2 assigned -- revise water tariffs (policy brief)
+: 1. 🗓 Project 1 Presentations
+  1. ⚡️ Project 2 assigned -- revise water tariffs (policy brief)
 
 ## Transportation
 
@@ -80,7 +80,7 @@ Nov 2
 Nov 4
 : Mobility of the Future
 : 1. 🗓 Project 2 Reports due
-: 1. ⚡️ Project 3 assigned -- design a bike lane (digital presentation)
+  1. ⚡️ Project 3 assigned -- design a bike lane (digital presentation)
 
 ## Coastal Resilience
 
