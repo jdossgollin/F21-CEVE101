@@ -6,17 +6,17 @@ title: Class Schedule
 
 ## Course Introduction
 
-Aug 24
-: Course Overview
+In accordance with Rice University's guidance, we will start the semester online using Zoom.
+Please see Canvas for the link!
 
 Aug 26
-: Infrastructure, Values, Ethics, and Equity
+: Infrastructure, Sustainability, Resilience, and Equity (Zoom, synchronous)
 
 Aug 31
-: Data Science with Python I
+: Data Science with Python I (Zoom, synchronous)
 
 Sep 2
-: Data Science with Python II
+: Data Science with Python II (Zoom, synchronous)
 
 ## Energy Systems
 
@@ -57,7 +57,7 @@ Oct 12
 : Midterm Recess (no class)
 
 Oct 14
-: Water Treatment Processes
+: Water Treatment Processes with Guest Lecture [Dr. Jorge Loyo](https://www.linkedin.com/in/jorge-loyo-2107183a) -- NEWT Center and the Sustainability Minor
 
 Oct 19
 : 🗓 Project 1 Presentations

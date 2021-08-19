@@ -94,7 +94,9 @@ In this class, problem sets:
 Problem sets will be assigned every class and will be due at 1:30PM on the days assigned -- i.e., one hour before class starts.
 This gives me a chance to figure out which ideas lots of students are struggling with and review them in class.
 Please bring a copy of your problem set with you to class -- we will discuss them together!
-Your lowest 3 problem sets will be dropped, so no need to panic if you're feeling tired or don't have time -- life happens!
+Problem sets turned in between 1:30PM and 2:30PM will be accepted, but will lose 15 points.
+Problem sets will not be accepted after class starts because we will be discussing the solutions together.
+Your lowest 3 problem sets will be dropped, so no need to panic if life happens!
 
 *Note:* Between reading and problem sets, you should be spending 2-4 hours to prepare for each class (we meet twice a week).
 If you find yourself regularly spending much longer than this, please come to office hours so that I can help you!

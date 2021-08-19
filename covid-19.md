@@ -3,10 +3,16 @@ layout: page
 title: COVID-19
 ---
 
-# COVID-19
-
 We are experiencing a deadly global pandemic that has challenged us all in different ways.
 We can and will get through this together!
+
+## Mode of Instruction
+
+In accordance with an email sent out by the Provost on August 19, there will be no class on August 24th.
+Instruction will be virtual (on Zoom, but synchronous) on August 26th, August 31st, and September 2nd.
+I hope we can safely meet in person soon, but if not we will adapt as necessary.
+
+## What You Can Do
 
 Here are some guidelines to keep in mind:
 
@@ -15,7 +21,9 @@ Here are some guidelines to keep in mind:
 1. Empathize with your classmates and instructors.
 1. Include your classmates who aren't able to join us in person. Use tools like Zoom, Google Drive, and Slack to organize team projects.
 
-Here's what I'm doing to balance learning and safety:
+## What I'm Doing
+
+It's my job to help this class navigate this pandemic.
 
 1. If you need an extension or other resources, reach out. I'm here to help, but I can't help if you don't tell me how.
 1. Attendance is strongly encouraged, but is not mandatory. All course materials are (or can be made) available online, including lectures and discussion. If you can't come to class, you won't fall behind.
