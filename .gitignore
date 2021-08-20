@@ -2,3 +2,5 @@ __latexindent_temp.tex
 *.out
 syllabus.pdf
 _site/
+vendor/
+.bundle/
