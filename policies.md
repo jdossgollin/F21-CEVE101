@@ -60,11 +60,18 @@ Both the poster and the user are in violation of the university policy, which is
 
 If you have a documented disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with the Disability Resource Center (Allen Center, Room 111 / [adarice@rice.edu](mailto:adarice@rice.edu) / x5841) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
 
-### Accommodation for Religious Events
+### Accommodation for Scheduling Conflicts
 
-If any of our class meetings conflict with your religious events, please let me know so that we can make arrangements with you.
+If any of our class meetings conflict with your religious events, student athletics, or other non-negotiable scheduling conflict, please let me know ASAP so that we can make arrangements for you.
 
 ## Materials
+
+### Slack
+
+We will use Slack to send course announcements, to coordinate group projects, and to collaboratively discuss problem sets.
+If you have a private or sensitive topic to discuss, you should send me an email.
+
+You will get link to join the Slack workspace in the early weeks of the class.
 
 ### Textbook
 
@@ -78,7 +85,7 @@ That means that you will do reading and watch lecture material on your own time,
 *This can work great, but only if everyone comes to class fully prepared.*
 
 **All assignments must be submitted on Canvas**.
-You are welcome to complete your assignment by hand and scan it using a free application such as [Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html), but please check for legibility before submitting.
+You are welcome to complete your assignment by hand and scan it using a free application such as [Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html) or Genius Scan, but please check for legibility before submitting.
 There are also scanners that you can use, e.g. [in Fondren](https://library.rice.edu/services/copy-print-scan).
 Unless specifically instructed otherwise, you should submit a `.pdf` file.
 

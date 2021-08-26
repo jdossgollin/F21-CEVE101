@@ -19,6 +19,10 @@ CEVEs work at the dynamic interface of the built environment, information enviro
 In this course, students will explore how data science, environmental science, economic analysis,  structural design, and systems thinking can be integrated to promote sustainability, resilience, and equity.
 Through a mix of technical lectures, topical seminars on applications and ideas of interest, and team-based projects, students will develop an understanding of the broad field of civil and environmental engineering and its applications.
 
+## Pre-Requisites
+
+None
+
 ## Course Objectives
 
 This course is intended to introduce you to the discipline of civil and environmental engineering through examination of topics in energy systems, water systems, urban mobility, and coastal resilience.
