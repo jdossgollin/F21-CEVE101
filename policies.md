@@ -98,7 +98,7 @@ In this class, problem sets:
 1. give me a chance to use class time addressing the most confusing topics; and
 1. provide students with an opportunity to apply skills from class and reading to real-world problems.
 
-Problem sets will be assigned every class and will be due at 1:30PM on the days assigned -- i.e., one hour before class starts.
+Problem sets will be assigned every class and will be due at 1:30PM on the days assigned -- i.e., one hour before class starts. (*I reserve the right to move this up an hour or two if needed*)
 This gives me a chance to figure out which ideas lots of students are struggling with and review them in class.
 Please bring a copy of your problem set with you to class -- we will discuss them together!
 Problem sets turned in between 1:30PM and 2:30PM will be accepted, but will lose 15 points.
