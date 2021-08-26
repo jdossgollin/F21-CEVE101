@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rice CEVE 101
+title: CEVE 101 @ Rice
 tagline: Fundamentals of Civil and Environmental Engineering
 description: Sustainable, Resilient, and Equitable Infrastructure Services
 author: James Doss-Gollin
@@ -67,3 +67,6 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+exclude:
+  - vendor

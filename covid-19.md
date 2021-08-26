@@ -3,6 +3,8 @@ layout: page
 title: COVID-19
 ---
 
+# {{ page.title }}
+
 We are experiencing a deadly global pandemic that has challenged us all in different ways.
 We can and will get through this together!
 
