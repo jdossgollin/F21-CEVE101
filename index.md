@@ -66,6 +66,7 @@ For each module, students will work on a project in groups and present using a d
 If you are interested in this course, you may also be interested in the following courses:
 
 1. **ENGI 120** is a design course offered through the [design kitchen](http://oedk.rice.edu/). While engineering design is a large component of this course, it is the main focus of ENGI 120. You should take ENGI 120 if you want to build prototypes or to participate in a semester-long design project. You should take this course if you want to learn about the field of civil and environmental engineering through a set of more focused design projects.
+1. **CEVE 310** covers principles of water quality engineering, air pollution control and solid and hazardous waste management.
 1. *know of another related course?* Create an issue at [https://github.com/jdossgollin/course-ceve-101/issues](https://github.com/jdossgollin/course-ceve-101/issues) and I will add it to this list.
 
 ## Syllabus Credit
