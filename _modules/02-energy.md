@@ -15,9 +15,9 @@ Sep 16
 : Guest Lecture [Dr. Gayle Moran](https://profiles.rice.edu/faculty/gayle-moran) -- Engineering Communications
 
 Sep 21
-: Generating and Storing Renewable Energy
-: ⚡️ Project 1 assigned -- how much storage do we need? (oral presentation)
+: Generating Renewable Energy
 
 Sep 23
-: Electricity Markets and Transmission
-: Datasets and Software Tools for Project 1
+:  1. Storing and Transmitting Renewable Energy
+1. ⚡️ Project 1 assigned -- how much storage do we need? (oral presentation)
+1. Datasets and Software Tools for Project 1
