@@ -9,10 +9,10 @@ Sep 30
 : The Hydrologic Cycle
 
 Oct 5
-: Field Trip (To Be Confirmed) -- Stormwater and Flooding
+: Guest Lecture Dr. Phil Bedient -- Stormwater and Flooding
 
 Oct 7
-: Mass Balance
+: Mass Balance and Nutrient Cycles
 
 Oct 12
 : Midterm Recess (no class)

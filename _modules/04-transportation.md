@@ -7,14 +7,14 @@ Oct 26
 : Guest Lecture [Veronica Davis](https://www.linkedin.com/in/veronicaodavis/) -- Design a Bike Lane
 
 Oct 28
-: Traffic
+: Field Trip to Houston Zoo
 
 Nov 2
-: Networks and Connectivity
+: Traffic and Connectivity
 
 Nov 4
 : 1. Mobility of the Future
-  1. ⚡️ Project 3 assigned -- design a bus lane in Houston (digital presentation)
+  1. ⚡️ Project 3 assigned -- design a bike lane in Houston (digital presentation)
   1. 🗓 Project 2 Reports due
 
 Nov 9
