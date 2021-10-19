@@ -121,8 +121,8 @@ There will be peer evaluation after each project, and peer ratings will be used 
 | Problem sets   |    | 35% |
 | Project 1   | Oral presentation | 15% |
 | Project 2   | Policy brief | 15% |
-| Project 3   | Digital presentation | 15%  |
-| Project 4   | Final Report | 20% |
+| Project 3   | Digital presentation | 10%  |
+| Project 4   | Final Report | 25% |
 
 I reserve the right to curve the scale dependent on overall class scores at the end of the semester.
 I will assign grades using the following numeric to grade conversion scale:

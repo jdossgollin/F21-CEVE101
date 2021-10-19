@@ -21,8 +21,8 @@ Oct 14
 : Water Treatment Processes with Guest Lecture [Dr. Jorge Loyo](https://www.linkedin.com/in/jorge-loyo-2107183a) -- NEWT Center and the Sustainability Minor
 
 Oct 19
-: 🗓 Project 1 Presentations
+: Work on Project 1 in class
 
 Oct 21  
-: 1. Datasets and Software for Project 2
+: 1. 🗓 Project 1 Presentations
   1. ⚡️ Project 2 assigned -- rainwater harvesting in the semi-arid Brazil Nordeste

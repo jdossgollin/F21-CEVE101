@@ -10,7 +10,7 @@ Oct 28
 : Field Trip to Houston Zoo
 
 Nov 2
-: Traffic and Connectivity
+: Datasets and Software for Project 2
 
 Nov 4
 : 1. Mobility of the Future
