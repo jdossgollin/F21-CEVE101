@@ -10,10 +10,10 @@ Oct 28
 : Field Trip to Houston Zoo
 
 Nov 2
-: Datasets and Software for Project 2
+: Mobility of the Future
 
 Nov 4
-: 1. Mobility of the Future
+: 1. Connectivity
   1. ⚡️ Project 3 assigned -- design a bike lane in Houston (digital presentation)
   1. 🗓 Project 2 Reports due
 
