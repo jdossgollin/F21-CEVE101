@@ -6,10 +6,10 @@ Nov 11
 : Guest Lecture [Dr. Jamie Padgett](https://padgett.rice.edu/) -- Introduction to Statics and Mechanics
 
 Nov 16
-: Hurricanes, Impacts, and Climate Change
+: Guest Lecture [Joe Dickinson](https://www.linkedin.com/in/joe-dickinson-p-e-9942a52a/) -- The P.E. license and process
 
 Nov 18
-: Uncertainty and Sea Level Rise
+: Hurricanes and Sea Level Rise
 
 Nov 23
 : 🗓 Project 3 Showcases (In-Class)
@@ -18,11 +18,11 @@ Nov 25
 : Thanksgiving, no class
 
 Nov 30
-: Natural and Nature-Based Infrastructure
-: ⚡️ Project 4 assigned -- house elevation for coastal resilience (written report and oral presentation)
+: Field Trip -- Flood Risk Management on Bray's Bayou
+: ⚡️ Project 4 assigned -- house elevation (written report and oral presentation)
 
 Dec 2
-: Guest Lecture [Dr. Phil Bedient](https://profiles.rice.edu/faculty/philip-bedient) -- Galveston Bay Park Plan
+: Decision Making Under Uncertainty, Nature-Based Solutions, and Nonstructural Flood Risk Management
 
 TBD
 : 🗓 Project 4 Presentations -- will be scheduled during the final exam slot.
